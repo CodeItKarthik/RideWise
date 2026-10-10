@@ -1,0 +1,32 @@
+# Compiled class files
+*.class
+
+# Build directories
+bin/
+out/
+
+# IDE configuration
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# macOS
+.DS_Store
+
+# Maven
+target/
+*.jar
+*.war
+
+# Gradle
+.gradle/
+build/
+
+# VS Code
+.vscode/
+
+# General
+.classpath
+.project
+.settings/
